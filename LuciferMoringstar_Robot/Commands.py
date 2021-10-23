@@ -348,6 +348,6 @@ async def bot_info(bot, message):
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
 START_TXT = """𝙷𝙴𝙻𝙻𝙾 {}
-
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 𝚂𝙰𝚁𝙰, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍
 """
+
